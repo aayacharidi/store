@@ -1,0 +1,67 @@
+
+.dashboard {
+	
+	text-align: left;
+	color:  rgb(255,255,255);
+	background-color: rgb(50,255,50,0.2);
+	border-radius: 12px;
+    padding: 10px 15px 10px 15px;
+     margin: 110px 20px 0px 20px;
+     box-shadow: 3px 3px 15px rgb(145, 34, 1);
+}
+
+#board_title {
+	text-align: center;
+	
+}
+
+.table1 {
+	margin-left: 50px;
+	font-size: 25px;
+	color:  rgb(255,255,255);
+	
+}
+
+.board_left {
+	padding-right: 300px;
+	text-align: left;
+}
+
+.board_right {
+	
+	text-align: left;
+}
+
+
+.resultButton, .leaveButton {
+	background-color: rgb(255,50,50,0.4);
+	color: white;
+	font-size: 24px;
+	padding: 16px 16px;
+	margin: 40px 0px 20px 0px;
+	border-radius: 12px;
+	-webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    border: 2px solid rgb(255,50,50,0.7);
+}
+
+.resultButton:hover, .leaveButton:hover {
+	background-color: #f44336;
+    color: white;
+    border: 2px solid #ee8f4f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

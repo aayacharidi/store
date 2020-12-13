@@ -1,0 +1,53 @@
+
+#player_title {
+	  border-radius: 12px;
+    color: #CA2121;
+   	padding: 10px 10px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+
+.playerList .player_col {
+	color:  rgb(255,255,255);
+ background-color: rgb(50,255,50,0.2);
+	border-radius: 12px;
+	margin: 10px 10px;
+   	padding: 10px 10px;	
+    text-align: center;
+    font-size: large;
+    box-shadow: 3px 3px 15px rgb(145, 34, 1);
+
+} 
+
+
+.playerList .player_row {	
+ background-color: rgb(50,255,50,0.2);
+	border-radius: 12px;
+	margin: 10px 10px;
+   	padding: 10px 10px;	
+    text-align: center;
+    font-size: large;
+    box-shadow: 3px 3px 15px rgb(145, 34, 1);
+}
+
+.player_col td {
+	width: 150px;
+	text-align: center;
+	padding: 10px 15px;
+	margin: 10px 15px;
+}
+
+.player_row td {
+	width: 150px;
+	text-align: center;
+	padding: 10px 15px;
+	margin: 10px 15px;
+}
+
+.player_row table {
+ color:  rgb(255,255,255);
+}
+
+
+

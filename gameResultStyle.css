@@ -1,0 +1,122 @@
+
+.gameResult {
+	margin: 0px 10px 10px 10px;
+}
+
+#result_title {
+	  border-radius: 12px;
+    color: #CA2121;
+   	padding: 10px 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Baloo', cursive;
+}
+
+.gameResult .result_col {
+ 	/*background-color: rgb(0,0,0,80%);*/
+  background-color: black;
+	border-radius: 12px;
+	margin: 10px 2px;
+  padding: 5px 5px;	
+  text-align: center;
+  font-size: large;
+  min-width: 850px;
+} 
+
+/*.result_col .col {
+	color: #ff0000;
+	font-family: 'Anton', sans-serif;
+	min-width: 150px;
+	text-align: center;
+	padding: 8px 0px;
+	margin: 10px 8px;
+}*/
+
+
+.result_col .hostTeam {
+  /*margin: 10px 50px;*/
+  padding: 8px 80px;
+  /*min-width: 50px;*/
+}
+
+.result_col .score {
+  padding: 8px 40px;
+  min-width: 80px;
+}
+
+.result_col .guestTeam {
+  padding: 8px 60px;
+}
+
+.result_col .location {
+   padding: 8px 65px;
+}
+
+.result_col .date {
+  padding: 8px 70px;
+}
+
+.result_col .type {
+  padding: 8px 55px;
+}
+
+.result_row {
+  background-color: rgb(0,0,0,80%);
+  border-radius: 12px;
+	margin: 15px 10px;
+  padding: 5px 5px;	
+  text-align: center;
+  font-size: large;
+  min-width: 650px;
+  font-weight: bold;
+}
+
+.result_row .theRow {
+  /*min-width: 50px;*/
+  text-align: center;
+}
+
+.result_row .row_hostTeam {
+  min-width: 200px;
+}
+
+.result_row .row_guestTeam {
+  min-width: 150px;
+}
+
+.result_row .row_hostScore {
+  min-width: 80px;
+}
+
+.result_row .row_guestScore {
+  min-width: 80px;
+}
+
+.result_row .bi {
+  min-width: 80px;
+}
+
+.result_row .row_location {
+  min-width: 230px;
+}
+
+.result_row .row_date {
+  min-width: 150px;
+}
+
+.result_row .row_type {
+  min-width: 150px;
+}
+
+
+
+.result_row table {
+  color: #B6B4AA;
+  /*background-color: rgb(0,0,0,80%);*/
+}
+
+
+
+
+
+

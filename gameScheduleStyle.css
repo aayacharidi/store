@@ -1,0 +1,56 @@
+.game {
+  /*color:  rgb(255,255,255);*/
+  background-color: rgb(50,255,50,0.2);
+  color: white;
+  /*background-color: rgb(50, 255,50,20%);*/
+  border-radius: 12px;
+     min-height: 50px;
+     margin: 10px 10px;
+     padding: 10px 10px;
+     text-align: center;
+     box-shadow: 3px 3px 15px rgb(145, 34, 1);
+    
+}
+.tit{
+  margin-top: 50px;
+     min-height: 20px;
+      padding: 0px 10px;
+}
+.team table, .game table{
+   min-height: 40px;
+  padding-top: 5px; 
+
+}
+.game td{
+  width: 180px;
+  /*color: #ffffff;*/
+}
+.team td{
+  width: 130px;
+}
+input[type=submit],{
+    width: 50%;
+    background-color: #CA2121;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+  .join_but a{
+    width: 50%;
+    background-color: rgb(202,33,33,80%);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .join_but a:hover{
+    background-color: rgb(202,33,33,90%);
+
+  }
